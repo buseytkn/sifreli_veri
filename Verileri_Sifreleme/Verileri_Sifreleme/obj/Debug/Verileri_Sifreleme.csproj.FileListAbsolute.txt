@@ -1,0 +1,11 @@
+D:\Verileri_Sifreleme\Verileri_Sifreleme\bin\Debug\Verileri_Sifreleme.exe.config
+D:\Verileri_Sifreleme\Verileri_Sifreleme\bin\Debug\Verileri_Sifreleme.exe
+D:\Verileri_Sifreleme\Verileri_Sifreleme\bin\Debug\Verileri_Sifreleme.pdb
+D:\Verileri_Sifreleme\Verileri_Sifreleme\obj\Debug\Verileri_Sifreleme.csproj.AssemblyReference.cache
+D:\Verileri_Sifreleme\Verileri_Sifreleme\obj\Debug\Verileri_Sifreleme.csproj.SuggestedBindingRedirects.cache
+D:\Verileri_Sifreleme\Verileri_Sifreleme\obj\Debug\Verileri_Sifreleme.Form1.resources
+D:\Verileri_Sifreleme\Verileri_Sifreleme\obj\Debug\Verileri_Sifreleme.Properties.Resources.resources
+D:\Verileri_Sifreleme\Verileri_Sifreleme\obj\Debug\Verileri_Sifreleme.csproj.GenerateResource.cache
+D:\Verileri_Sifreleme\Verileri_Sifreleme\obj\Debug\Verileri_Sifreleme.csproj.CoreCompileInputs.cache
+D:\Verileri_Sifreleme\Verileri_Sifreleme\obj\Debug\Verileri_Sifreleme.exe
+D:\Verileri_Sifreleme\Verileri_Sifreleme\obj\Debug\Verileri_Sifreleme.pdb
